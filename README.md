@@ -5,6 +5,9 @@ As part of this project, the task is to perform web scraping on the Wikipedia pa
 <br>
 Using Python and web scraping libraries, the project aims to fetch the table from the Wikipedia page and convert it into a structured format, such as a pandas DataFrame. Once the data is extracted and structured appropriately, the objective is to save it as a CSV file for further analysis and use.
 
+### Website Link:
+Wikipedia: [List of Largest Companies in US](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
+
 ### Data to be Scraped:
 ![image](https://github.com/Mcraze/Web-Scraping-using-Python/assets/84672998/52c4eb9e-aede-41c4-b7f4-20b0313e5625)
 
